@@ -44,4 +44,4 @@ To run the stopwatch, you need a modern web browser (Chrome, Firefox, Safari, et
 - **Enhance Functionality:** The JavaScript code can be extended to include features like countdown timers, alarm triggers, or export lap data.
 
 ## Deployment
-Link : 
+Link :  https://abishek2807.github.io/PRODIGY_WD_02/
